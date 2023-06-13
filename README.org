@@ -1,0 +1,10 @@
+* letrec
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/stylewarning/letrec.git   |
+| commit  | da8643a  |
+| systems | letrec |
+|---------+-------------------------------------------|
+
